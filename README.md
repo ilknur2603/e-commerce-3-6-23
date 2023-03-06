@@ -43,7 +43,7 @@ NPM install, NPM install express, NPM install dotenv, NPM install sequelize, Nod
 <br>
 ![insomnia](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.gif)
 <br>
-![insomniap(https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia1.png)]
+![insomniap](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia1.png).
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
