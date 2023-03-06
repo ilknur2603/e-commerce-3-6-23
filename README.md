@@ -43,11 +43,11 @@ NPM install, NPM install express, NPM install dotenv, NPM install sequelize, Nod
 <br>
 #Usage
 <br>
-![insomnia](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.gif)
+
 <br>
-[mysql workbench png](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/mysql%20workbench.png)
+
 <br>
-[insomnia](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.png)
+
 <br>
 [insomnia-post](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia1.png)
 
