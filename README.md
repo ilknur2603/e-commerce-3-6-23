@@ -14,34 +14,42 @@
 ----
 <br>
 # Technologies Used:
-<br>Node.JS
-##### MySQL
-<br>Express
+<br>
+Node.JS
 #####
-<br>Sequelize
+MySQL
+<br>
+Express
+#####
+<br>
+Sequelize
 ##### 
 <br>
-##### Nodemon
+#####
+Nodemon
 <br>
-##### dotenv
+#####
+dotenv
 <br>
-##### Insomnia
---------
+##### 
+Insomnia
+---
+<br>
 #Installation
 <br>
 NPM install, NPM install express, NPM install dotenv, NPM install sequelize, Nodemon,  Npm i mysql2
 <br>
--------------------------------------------------------------------
+----
 <br>
 #Usage
 <br>
-![insomnia.gif](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.gif)
+![insomnia](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.gif)
 <br>
-![mysql workbench png](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/mysql%20workbench.png)
+[mysql workbench png](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/mysql%20workbench.png)
 <br>
-![insomnia](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.png)
+[insomnia](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.png)
 <br>
-![insomnia post.png](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia1.png)
+[insomnia-post](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia1.png)
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
