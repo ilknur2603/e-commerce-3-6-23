@@ -75,7 +75,6 @@ I tested this project using MySQL Workbench for database creation, I tested it o
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)!
 ![Hereoku](https://dashboard.heroku.com/apps/rocky-cove-43884)
 <br>
--------------------------------
 ![Questions](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 <br>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)      https://github.com/ilknur2603/
