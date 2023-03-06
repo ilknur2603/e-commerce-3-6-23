@@ -47,7 +47,7 @@ NPM install, NPM install express, NPM install dotenv, NPM install sequelize, Nod
 <br>
 
 <br>
-
+![insomniagif](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.gif)
 <br>
 [insomnia-post](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia1.png)
 
