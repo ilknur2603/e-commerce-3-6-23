@@ -13,26 +13,26 @@
 * <br>
 ----
 <br>
-# Technologies Used:
+#Technologies Used:
 <br>
 Node.JS
-#####
+<br>
 MySQL
 <br>
 Express
-#####
+
 <br>
 Sequelize
-##### 
+ 
 <br>
-#####
+
 Nodemon
 <br>
-#####
+
 dotenv
-<br>
-##### 
+<br> 
 Insomnia
+<br>
 ---
 <br>
 #Installation
@@ -47,7 +47,7 @@ NPM install, NPM install express, NPM install dotenv, NPM install sequelize, Nod
 <br>
 
 <br>
-![insomniagif](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.gif)
+![insomnia](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia.gif)
 <br>
 [insomnia-post](https://github.com/ilknur2603/e-commerce-3-6-23/blob/main/assets/insomnia1.png)
 
@@ -78,19 +78,10 @@ $License
 This project is licensed under MIT
 
 #Testing Instructions
-I tested this project using MySQL Workbench for database creation, I tested it on Insomnia, I debugged my codes, Ideployed my project on hereoku with JAWSDB_URL!!
+I tested this project using MySQL Workbench for database creation, I tested it on Insomnia, I debugged my codes, Ideployed my project on hereoku with JAWSDB_URL.
 <br>
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)!
 ![Hereoku](https://dashboard.heroku.com/apps/rocky-cove-43884)
--------------------------------
-![Questions](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 <br>
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)      https://github.com/ilknur2603/
-***
-![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        ilknurdayanc2603@gmail.com/
-***
-![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/feed/?trk=404_page/
-***
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)   https://twitter.com/home/
-***
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)         **ILKNUR DAYANC BLOOMER
+-------------------------------
+
