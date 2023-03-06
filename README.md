@@ -29,13 +29,11 @@ dotenv
 <br> 
 Insomnia
 <br>
------
 <br>
 #Installation:
 <br>
 NPM install, NPM install express, NPM install dotenv, NPM install sequelize, Nodemon,  Npm i mysql2
 <br>
-----
 <br>
 #Usage
 <br>
@@ -67,10 +65,10 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
-------------------------------------------------------
+<br>
 $License
 This project is licensed under MIT
-
+<br>
 #Testing Instructions
 I tested this project using MySQL Workbench for database creation, I tested it on Insomnia, I debugged my codes, Ideployed my project on hereoku with JAWSDB_URL.
 <br>
